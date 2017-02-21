@@ -1,4 +1,4 @@
 # sfcountdown
 simple countdown website for my move
 
-sfcountdown.surge.sh
+[sfcountdown.surge.sh](http://sfcountdown.surge.sh)
