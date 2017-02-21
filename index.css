@@ -1,0 +1,8 @@
+.main {
+	float: middle;
+}
+
+li > span {
+	color: rgb(165, 210, 95);
+}
+
