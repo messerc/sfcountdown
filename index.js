@@ -1,4 +1,4 @@
-const departureDay = new Date('2017-3-5 08:05:00');
+const departureDay = new Date('2017-3-5 08:30:00');
 const clock = document.getElementById('clock');
 const bridge = document.getElementById('bridge');
 
